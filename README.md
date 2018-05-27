@@ -84,7 +84,7 @@ by Sigma’s High Zeta, the physical copy takes precedence.]_
 ### Sec.1. Chapter Designation.
 
 The official name of this Chapter shall be: Sigma Zeta of Lambda Chi Alpha
-Fraternity at the University of Michigan in AnnArbor, MI.
+Fraternity at the University of Michigan in Ann Arbor, MI.
 
 ## Article II. Objects
 
@@ -111,11 +111,11 @@ This Chapter shall be governed by the following laws:
 
 ### Sec.1. Definition.
 
-SigmaZeta is composed of two divisions: the Active Chapter and the Alumni
+Sigma Zeta is composed of two divisions: the Active Chapter and the Alumni
 Chapter.
 
 1. The Active Chapter is made up of students, initiated and associated, enrolled
-at the University ofMichigan.
+at the University of Michigan.
 
 2. The Alumni Chapter is made up of the initiated members who have graduated
 from the University of Michigan; are no longer enrolled at the University of
@@ -160,7 +160,7 @@ It shall be composed of all the members of Sigma Zeta in good standing and shall
 be governed by a Board of Directors as stipulated in their Articles of
 Incorporation. The High Alpha, High Tau, High Rho, High Pi and House Manager of
 the Active Chapter shall be included on the Board of Directors. The House
-Corporationshall:
+Corporation shall:
 
 1. Serve as the landlord of Sigma Zeta.
 
@@ -178,8 +178,8 @@ interest in and loyalty to Lambda Chi Alpha and Sigma Zeta.
 ### Sec.6. Chapter Committees.
 
 Chapter committees shall exist to promote and encourage involvement of the
-general membership and to carry out the programs and operations of Sigma Zeta.These
-committees shall be:
+general membership and to carry out the programs and operations of Sigma Zeta.
+These committees shall be:
 
 1. Executive Committee
 
@@ -187,7 +187,7 @@ committees shall be:
 
 3. Committees appointed at the prerogative of an officer of the High Zeta,
 provided that such committees follow all codes of the Constitution and Statutory
-Code and areapprovedby the Executive Committee
+Code and are approved by the Executive Committee
 
 ## Article V. Chapter Meetings
 
@@ -275,7 +275,7 @@ Officers not ranked include:
 
 The following officers may be appointed by the High Alpha:
 
-1. Editor & Correspondent, Newsletter, _Cross&Crescent_, Publicity
+1. Editor & Correspondent, Newsletter, _Cross & Crescent_, Publicity
 2. Historian, Chapter History
 3. Kitchen Steward, Table and Dining Operations
 4. Student Advisory Committee Correspondent, Liaison to Student Advisory
@@ -307,10 +307,10 @@ and _Statutory Code (IV-1,III-3)_ and these Bylaws.
 Candidates will be elected in the following order:
 
 1.  High Alpha, President
-2.  High Beta,Vice President
+2.  High Beta, Vice President
 3.  High Theta, Second Vice President
-4.  High Gam ma, Secretary
-5.  High Tau,Treasurer
+4.  High Gamma, Secretary
+5.  High Tau, Treasurer
 6.  High Iota, Risk Manager
 7.  High Kappa, Fraternity Educator
 8.  High Delta, Recruitment Chair
@@ -328,7 +328,7 @@ All candidates will speak in alphabetical order. The speeches for High Alpha
 candidates will not exceed five minutes in duration. The speeches for all other
 officer candidates will not exceed three minutes in duration. During the
 election of each office, the candidates will wait outside the Chapter room,
-enteringonly when called to speak or to vote.
+entering only when called to speak or to vote.
 
 #### E. Voting.
 
@@ -424,26 +424,26 @@ Standing), VIII-7 (Financial), and VIII-8(Scholastic) of the _Statutory Code_.
 As required by the General Fraternity, the Chapter shall maintain the following
 Operating Standards as enumerated in ArticleIII, Sec.3 of the _Constitution_:
 
-1. The Chapter Membership,active and associate, must be equal in number to the
+1. The Chapter Membership, active and associate, must be equal in number to the
 campus fraternity average or 40, whichever is smaller, but in no event fewer
 than 20.
 
 2. The Chapter must maintain an annual cumulative 2.5 Grade Point Average or a
-GPA above the All-Men's average, whichever is lesser.
+GPA above the All-Men’s average, whichever is lesser.
 
-3. Atleast 80% of the members must be engaged in extracurricular activities.
+3. At least 80% of the members must be engaged in extracurricular activities.
 
 4. The chapter must be financially solvent, have an adequate accounting system
 and operate under an approved budget.
 
-5. Each member shall pay the equivalent of atleast $4.00 per month to a Reserve
-Fund, which shall beheld and controlled by the House Corporation, to be used for
-housing needs.
+5. Each member shall pay the equivalent of at least $4.00 per month to a Reserve
+Fund, which shall be held and controlled by the House Corporation, to be used
+for housing needs.
 
 6. The Chapter must have a complete set of ritual equipment.
 
-7. The Chapter must have a High Pi and a functioning alumni organization of atleast
-three members.
+7. The Chapter must have a High Pi and a functioning alumni organization of at
+least three members.
 
 8. The chapter must have a set of bylaws, updated every two years and approved
 by the General Fraternity.
@@ -465,7 +465,7 @@ Each member shall have the following responsibilities and obligations.
 1. To abide by the laws, rulings, and accepted traditions of Sigma Zeta and
 Lambda Chi Alpha Fraternity.
 
-2. To pay promptly, alllegally assessed dues, charges, and fines.(CodeVIII-7)
+2. To pay promptly, all legally assessed dues, charges, and fines.(CodeVIII-7)
 
 3. To attend all regular meetings and all official functions of the Chapter
 whenever possible.
@@ -523,7 +523,7 @@ requirements are outlined in CodeIV-4 of the _Statutory Code_.
 
 Associate membership may be terminated at any time by the active members of the
 Chapter. A 75% favorable vote of the members present and voting shall be
-necessary to continueassociatemembership.
+necessary to continue associate membership.
 
 #### D. Termination of Active Membership.
 
@@ -531,7 +531,7 @@ necessary to continueassociatemembership.
 terminated only by death, resignation, or expulsion.
 
 2. _Inactive Status_. Inactive status is permitted for an active brother who has
-paid dues and other charges for each of 8 full semesters, inaccordance with
+paid dues and other charges for each of 8 full semesters, in accordance with
 ArticleIV, Section 2 of the _Constitution_
 
 3. _Resignation_. A member who resigns his membership is considered
@@ -581,23 +581,23 @@ material necessary to maintain the chapter house.
 
 In accordance with Article IV, Sec.6(d) of the _Constitution_ of Lambda Chi
 Alpha Fraternity, every member in good standing is required to live in the
-chapter house unless excused by the Executive Committee. Anymember not residing
-in the chapter house and who provides no proof of a valid excuse accepts anyexpulsion,
-suspension, or other lawful penalty levied upon them by the Executive
+chapter house unless excused by the Executive Committee. Any member not residing
+in the chapter house and who provides no proof of a valid excuse accepts any
+expulsion, suspension, or other lawful penalty levied upon them by the Executive
 Committee of Sigma Zeta of Lambda Chi Alpha.
 
 The validity of excuses shall be determined by the Executive Committee and must
 adhere to the guidelines enumerated here. Examples of valid excuses are
-scholarships or affirmation as an ResidentAdvisor in which the member must
-reside in University housing; the member’s parents will not allow themember to
+scholarships or affirmation as an Resident Advisor in which the member must
+reside in University housing; the member’s parents will not allow the member to
 reside within the chapter house (only valid after the Executive Committee has
-spoken with themember’s parents); and other excuses concurrent with the
+spoken with the member’s parents); and other excuses concurrent with the
 previous examples.
 
 ### Sec.3. Parlor Fees
 
 Parlor fees will be decided along with the chapter budget, at the discretion of
-theExecutiveCommittee.
+the Executive Committee.
 
 ### Sec.4. House Duties
 
@@ -607,8 +607,8 @@ house cleaning to be approved by majority vote at the second chapter meeting
 
 ### Sec.5. Parking
 
-Procedures for allocating parking spots at the chapter house shall be coveredintheChapterHouseRules.
-Use of the chapter house parking lot is for residents
+Procedures for allocating parking spots at the chapter house shall be covered in
+the Chapter House Rules. Use of the chapter house parking lot is for residents
 of the chapter house only, although alumni of Lambda Chi Alpha are exempt from
 fines and other penalties accrued through parking at the chapter house. The High
 Rho is responsible for informing alumni when other parking areas may be used.
@@ -692,7 +692,7 @@ Chapter business meeting.
 
 3. A quorum must be present during voting.
 
-4. Revisions shall requirea two-thirds majority to pass.
+4. Revisions shall require a two-thirds majority to pass.
 
 ### Sec.3. Biennial Review.
 
@@ -704,11 +704,11 @@ overseeing the review.
 
 Lambda Chi Alpha is committed to a policy of equal opportunity for all persons
 and does not discriminate on the basis of race, color, national origin, age,
-marital status, sex, sexual orientation, genderidentity, gender expression,
-disability, religion, height, weight, or veteran status in its membership oractivities
-unless permitted by university policy for gender specific
-organizations. Upon joining theorganization, all members agree not to undermine
-the purpose or mission of Lambda Chi Alpha. LambdaChi Alpha meets the
+marital status, sex, sexual orientation, gender identity, gender expression,
+disability, religion, height, weight, or veteran status in its membership or
+activities unless permitted by university policy for gender specific
+organizations. Upon joining the organization, all members agree not to undermine
+the purpose or mission of Lambda Chi Alpha. Lambda Chi Alpha meets the
 requirements for a Title IX exemption.
 
 ### Sec.5. Constitution and Bylaw Re-ratification
