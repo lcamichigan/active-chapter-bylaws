@@ -9,25 +9,25 @@ by Sigma’s High Zeta, the physical copy takes precedence.]_
 * [II. Objects](#article-ii-objects)
 * [III. Chapter Governance](#article-iii-chapter-governance)
 * [IV. Organization](#article-iv-organization)
-  * [1. Definition](#sec1-definition)
-  * [2. Active Chapter](#sec2-active-chapter)
-  * [3. High Zeta](#sec3-high-zeta)
-  * [4. Executive Committee](#sec4-executive-committee)
-  * [5. Alumni Organization](#sec5-alumni-organization)
-  * [6. Chapter Committees](#sec6-chapter-committees)
+  * [1. Definition](#sec-1-definition)
+  * [2. Active Chapter](#sec-2-active-chapter)
+  * [3. High Zeta](#sec-3-high-zeta)
+  * [4. Executive Committee](#sec-4-executive-committee)
+  * [5. Alumni Organization](#sec-5-alumni-organization)
+  * [6. Chapter Committees](#sec-6-chapter-committees)
 * [V. Chapter Meetings](#article-v-chapter-meetings)
-  * [1. Chapter Business Meetings](#sec1-chapter-business-meetings)
-  * [2. Formal Business Meetings](#sec2-formal-business-meetings)
-  * [3. Quorum](#sec3-quorum)
-  * [4. Attendance](#sec4-attendance)
-  * [5. Decorum](#sec5-decorum)
+  * [1. Chapter Business Meetings](#sec-1-chapter-business-meetings)
+  * [2. Formal Business Meetings](#sec-2-formal-business-meetings)
+  * [3. Quorum](#sec-3-quorum)
+  * [4. Attendance](#sec-4-attendance)
+  * [5. Decorum](#sec-5-decorum)
     * [A. Agenda](#a-agenda)
     * [B. Enforcing Decorum](#b-enforcing-decorum)
 * [VI. Chapter Administration](#article-vi-chapter-administration)
-  * [1. Chapter Officers](#sec1-chapter-officers)
+  * [1. Chapter Officers](#sec-1-chapter-officers)
     * [A. Elective](#a-elective)
     * [B. Appointive](#b-appointive)
-  * [2. Election of Officers](#sec2-election-of-officers)
+  * [2. Election of Officers](#sec-2-election-of-officers)
     * [A. Nominations](#a-nominations)
     * [B. Eligibility](#b-eligibility)
     * [C. Election Order](#c-election-order)
@@ -37,58 +37,58 @@ by Sigma’s High Zeta, the physical copy takes precedence.]_
     * [G. Tallying of Votes](#g-tallying-of-votes)
     * [H. Resignation from Office](#h-resignation-from-office)
     * [I. Vacancies](#i-vacancies)
-  * [3. High Pi](#sec3-high-pi)
-  * [4. Executive Committee](#sec4-executive-committee-1)
-  * [5. Educational Adviser](#sec5-educational-adviser)
-  * [6. Special Events](#sec6-special-events)
+  * [3. High Pi](#sec-3-high-pi)
+  * [4. Executive Committee](#sec-4-executive-committee-1)
+  * [5. Educational Adviser](#sec-5-educational-adviser)
+  * [6. Special Events](#sec-6-special-events)
 * [VII. Membership](#article-vii-membership)
-  * [1. Status](#sec1-status)
-  * [2. Chapter Obligations](#sec2-chapter-obligations)
-  * [3. Individual Obligations](#sec3-individual-obligations)
-  * [4. Voting On Candidates for Membership](#sec4-voting-on-candidates-for-membership)
+  * [1. Status](#sec-1-status)
+  * [2. Chapter Obligations](#sec-2-chapter-obligations)
+  * [3. Individual Obligations](#sec-3-individual-obligations)
+  * [4. Voting On Candidates for Membership](#sec-4-voting-on-candidates-for-membership)
     * [A. Association](#a-association)
     * [B. Initiation](#b-initiation)
     * [C. Termination of Associate Membership](#c-termination-of-associate-membership)
     * [D. Termination of Active Membership](#d-termination-of-active-membership)
-  * [5. Initiation](#sec5-initiation)
+  * [5. Initiation](#sec-5-initiation)
     * [A. Time](#a-time)
     * [B. Manner of Initiation](#b-manner-of-initiation)
     * [C. Compulsory Attendance](#c-compulsory-attendance)
     * [D. Initiation Fee](#d-initiation-fee)
     * [E. Zeta Numbers](#e-zeta-numbers)
 * [VIII. Housing](#article-viii-housing)
-  * [1. House Rules](#sec1-house-rules)
-  * [2. House Residency](#sec2-house-residency)
-  * [3. Parlor Fees](#sec3-parlor-fees)
-  * [4. House Duties](#sec4-house-duties)
-  * [5. Parking](#sec5-parking)
-  * [6. Summer Housing](#sec6-summer-housing)
+  * [1. House Rules](#sec-1-house-rules)
+  * [2. House Residency](#sec-2-house-residency)
+  * [3. Parlor Fees](#sec-3-parlor-fees)
+  * [4. House Duties](#sec-4-house-duties)
+  * [5. Parking](#sec-5-parking)
+  * [6. Summer Housing](#sec-6-summer-housing)
 * [IX. Finances](#article-ix-finances)
-  * [1. Budget](#sec1-budget)
-  * [2. Fees and Dues](#sec2-fees-and-dues)
-  * [3. Financial Hardship](#sec3-financial-hardship)
+  * [1. Budget](#sec-1-budget)
+  * [2. Fees and Dues](#sec-2-fees-and-dues)
+  * [3. Financial Hardship](#sec-3-financial-hardship)
 * [X. Discipline](#article-x-discipline)
 * [XI. Attendance Policy](#article-xi-attendance-policy)
-  * [1. Required Events](#sec1-required-events)
-  * [2. Initiation Attendance](#sec2-initiation-attendance)
+  * [1. Required Events](#sec-1-required-events)
+  * [2. Initiation Attendance](#sec-2-initiation-attendance)
 * [XII. Amendments](#article-xii-amendments)
-  * [1. Basis](#sec1-basis)
-  * [2. Revisions](#sec2-revisions)
-  * [3. Biennial Review](#sec3-biennial-review)
-  * [4. Equal Opportunity](#sec4-equal-opportunity)
-  * [5. Constitution and Bylaw Re-ratification](#sec5-constitution-and-bylaw-re-ratification)
+  * [1. Basis](#sec-1-basis)
+  * [2. Revisions](#sec-2-revisions)
+  * [3. Biennial Review](#sec-3-biennial-review)
+  * [4. Equal Opportunity](#sec-4-equal-opportunity)
+  * [5. Constitution and Bylaw Re-ratification](#sec-5-constitution-and-bylaw-re-ratification)
   * [6. Sexual Misconduct Rules and Prevention](#sec-6-sexual-misconduct-rules-and-prevention)
 
 ## Article I. Name
 
-### Sec.1. Chapter Designation.
+### Sec. 1. Chapter Designation
 
 The official name of this Chapter shall be: Sigma Zeta of Lambda Chi Alpha
 Fraternity at the University of Michigan in Ann Arbor, MI.
 
 ## Article II. Objects
 
-### Sec.1. Purposes.
+### Sec. 1. Purposes
 
 The purposes of this Chapter shall be: To maintain at the University of Michigan
 in Ann Arbor, Michigan, a Chapter of the Lambda Chi Alpha Fraternity, in
@@ -96,7 +96,7 @@ accordance with its ideals, ritual, standards, traditions, and laws.
 
 ## Article III. Chapter Governance
 
-### Sec.1. Laws Enumerated.
+### Sec. 1. Laws Enumerated
 
 This Chapter shall be governed by the following laws:
 
@@ -109,7 +109,7 @@ This Chapter shall be governed by the following laws:
 
 ## Article IV. Organization
 
-### Sec.1. Definition.
+### Sec. 1. Definition
 
 Sigma Zeta is composed of two divisions: the Active Chapter and the Alumni
 Chapter.
@@ -121,7 +121,7 @@ at the University of Michigan.
 from the University of Michigan; are no longer enrolled at the University of
 Michigan; or are alumni members of other chapters.
 
-### Sec.2. Active Chapter.
+### Sec. 2. Active Chapter
 
 The undergraduate members shall be known as the Active Chapter or the chief
 governing body of Sigma Zeta and have the powers and duties as prescribed in the
@@ -129,7 +129,7 @@ _Constitution_ and _Statutory Code_ and these Bylaws. It shall be the ultimate
 authority in all matters pertaining to its members and the Chapter as long as it
 is in line with the above mentioned legal hierarchy.
 
-### Sec.3. High Zeta.
+### Sec. 3. High Zeta
 
 The High Zeta shall include the following: High Alpha, High Beta, High Theta,
 High Gamma, High Tau, High Iota, High Kappa, High Delta, High Phi, High Sigma,
@@ -139,7 +139,7 @@ provide programming, organization, and leadership to the Chapter. It shall also
 support the enforcement of the policies, laws, and procedures of the Chapter and
 the General Fraternity.
 
-### Sec.4. Executive Committee.
+### Sec. 4. Executive Committee
 
 The Executive Committee shall have the powers and duties of the Active Chapters
 as defined in the _Constitution_ and _Statutory Code(III-31)_
@@ -151,7 +151,7 @@ winner of each slot.
 2. Nomination for one Executive Committee position shall not preclude the
 nomination to any other position, Executive or otherwise.
 
-### Sec.5. Alumni Organization.
+### Sec. 5. Alumni Organization
 
 The official name of the House Corporation shall be: Sigma Alumni Association of
 Lambda Chi Alpha, Inc.
@@ -175,7 +175,7 @@ Chapter.
 5. Planning and carrying out a program of activities for its members to maintain
 interest in and loyalty to Lambda Chi Alpha and Sigma Zeta.
 
-### Sec.6. Chapter Committees.
+### Sec. 6. Chapter Committees
 
 Chapter committees shall exist to promote and encourage involvement of the
 general membership and to carry out the programs and operations of Sigma Zeta.
@@ -191,19 +191,19 @@ Code and are approved by the Executive Committee
 
 ## Article V. Chapter Meetings
 
-### Sec.1. Chapter Business Meetings.
+### Sec. 1. Chapter Business Meetings
 
 Chapter business meetings shall be held weekly during the school year, with the
 day and time to be determined by the Chapter.
 
-### Sec.2. Formal Business Meetings.
+### Sec. 2. Formal Business Meetings
 
 Formal business meetings will be held at the first meeting of every month during
 the academic year. Dress code for formal business meetings shall consist of
 collared shirt, tie, slacks and dress shoes unless deemed otherwise by the High
 Alpha.
 
-### Sec.3. Quorum.
+### Sec. 3. Quorum
 
 A majority of members in good standing shall constitute a quorum (membership
 greater than fifty percent). Action may be taken at any meeting by a simple
@@ -211,7 +211,7 @@ majority of those present and voting, unless otherwise specified by the
 _Constitution_ and _Statutory Code_, these Chapter Bylaws, or _Robert’s Rules of
 Order_
 
-### Sec.4. Attendance.
+### Sec. 4. Attendance
 
 Attendance at Chapter meetings is required. Policies and procedures governing
 attendance at Chapter meetings shall be as prescribed by
@@ -220,11 +220,11 @@ brothers may attend chapter meetings but may not vote. Guests wishing to address
 the Chapter may do so only after permission is obtained from the High Alpha or
 the Active Chapter.
 
-### Sec.5. Decorum.
+### Sec. 5. Decorum
 
 Chapter meetings shall be structured using the following procedures:
 
-#### A. Agenda.
+#### A. Agenda
 
 The Order of the Day shall be determined by the High Alpha and governed by
 _Robert’s Rules of Order_. The Parliamentarian shall be charged with
@@ -234,7 +234,7 @@ after which the High Gamma will compile an agenda. Failure to submit an agenda
 for 2 consecutive weeks will result in a mandatory meeting with the Executive
 Committee.
 
-#### B. Enforcing Decorum.
+#### B. Enforcing Decorum
 
 The High Alpha is responsible for maintaining decorum at Chapter meetings and
 may designate a Sergeant-at-Arms to enforce decorum. Actions which violate
@@ -245,9 +245,9 @@ decorum.
 
 ## Article VI. Chapter Administration
 
-### Sec.1. Chapter Officers
+### Sec. 1. Chapter Officers
 
-#### A. Elective.
+#### A. Elective
 
 The following officers shall be elected to administer the affairs of the
 Chapter. In order of rank, they are:
@@ -271,7 +271,7 @@ Officers not ranked include:
 2. House Manager
 3. Intramural Sports Chairman
 
-#### B. Appointive.
+#### B. Appointive
 
 The following officers may be appointed by the High Alpha:
 
@@ -283,26 +283,26 @@ Committee
 5. Serenade Chairman
 6. Standards Chairman
 
-### Sec.2. Election of Officers.
+### Sec. 2. Election of Officers
 
 Chapter elections shall be held annually on the second Sunday of November under
 the supervision of the High Alpha or his designated representative. The
 elections may be split into two halves, with the second half occurring on the
 third Sunday of November.
 
-#### A. Nominations.
+#### A. Nominations
 
 Nominations shall be on the first Sunday of November and shall lie on the table
 for at least one week. Additional nominations may be made at the time of
 elections.
 
-#### B. Eligibility.
+#### B. Eligibility
 
 To be eligible to hold an elective or appointive office, a member must be in
 good standing, academically and financially, as defined by the _Constitution_
 and _Statutory Code (IV-1,III-3)_ and these Bylaws.
 
-#### C. Election Order.
+#### C. Election Order
 
 Candidates will be elected in the following order:
 
@@ -322,7 +322,7 @@ Candidates will be elected in the following order:
 14. Intramural Sports Chairman
 15. Greek Week Representatives
 
-#### D. Speeches.
+#### D. Speeches
 
 All candidates will speak in alphabetical order. The speeches for High Alpha
 candidates will not exceed five minutes in duration. The speeches for all other
@@ -330,11 +330,11 @@ officer candidates will not exceed three minutes in duration. During the
 election of each office, the candidates will wait outside the Chapter room,
 entering only when called to speak or to vote.
 
-#### E. Voting.
+#### E. Voting
 
 The vote will be by secret, written ballot.
 
-#### F. Votes Required for Election.
+#### F. Votes Required for Election
 
 An individual may not be elected to Chapter office unless he has received a
 majority vote of those present and voting. Should there fail to be a majority
@@ -346,7 +346,7 @@ is secured and on each subsequent ballot the candidate polling the lowest vote
 on the preceding ballot shall be dropped. The High Alpha shall vote only to
 break a tie on any ballot.
 
-#### G. Tallying of Votes.
+#### G. Tallying of Votes
 
 The High Alpha and the High Phi shall tally votes. Should the High Alpha be
 absent or should his name appear on the ballot under consideration, the officer
@@ -360,27 +360,27 @@ names appear on the ballot under consideration, the officers of highest rank in
 attendance or whose names do not appear on the ballot under consideration shall
 tally votes.
 
-#### H. Resignation from Office.
+#### H. Resignation from Office
 
 To resign his position, an elective or appointive officer must appear at a
 Chapter meeting and read aloud a written Statement of Resignation. If his
 appearance is not possible, a letter of resignation, addressed to the Chapter,
 shall suffice.
 
-#### I. Vacancies.
+#### I. Vacancies
 
 In the event of a vacancy, the position may be filled by Executive Committee
 appointment, or upon an objection and a second by the Chapter, a special
 election may be called.
 
-### Sec.3. High Pi.
+### Sec. 3. High Pi
 
 The High Pi shall serve as Chancellor of the Active Chapter, Advisor to the
 Chapter and Chief Judicial Officer. He shall serve a two-year term and shall be
 appointed by the Grand High Pi upon recommendation of the Active Chapter of
 Sigma Zeta.
 
-### Sec.4. Executive Committee.
+### Sec. 4. Executive Committee
 
 The Executive Committee shall be composed of the High Alpha, High Tau, High Pi,
 and two active members elected by the Chapter. One alternate member shall be
@@ -395,13 +395,13 @@ an ex-officio member, thus maintaining the number of members on exec to 8
 (5 voting and 3 ex-officio) plus one alternate. The High Beta shall exercise
 full voting privileges in the absence of the High Alpha.
 
-### Sec.5. Educational Adviser.
+### Sec. 5. Educational Adviser
 
 The Chapter shall elect an Educational Advisor who shall be a member of the
 University of Michigan faculty whenever possible. He or she need not be an
 alumnus of Lambda Chi Alpha.
 
-### Sec.6. Special Events.
+### Sec. 6. Special Events
 
 Prior to any large event (i.e. social or philanthropy) at the house, there must
 be a Risk Management Task Force meeting to discuss the plans and procedures for
@@ -411,7 +411,7 @@ discuss the success and/or failure of the event.
 
 ## Article VII. Membership
 
-### Sec.1. Status.
+### Sec. 1. Status
 
 Membership in the Active Chapter shall include active members (initiated) and
 associate members (non-initiated) who are students at the University of
@@ -419,7 +419,7 @@ Michigan. To actively participate in chapter affairs, a member (active or
 associate) must be in good standing in accordance with Codes IV-1 (Good
 Standing), VIII-7 (Financial), and VIII-8(Scholastic) of the _Statutory Code_.
 
-### Sec.2. Chapter Obligations
+### Sec. 2. Chapter Obligations
 
 As required by the General Fraternity, the Chapter shall maintain the following
 Operating Standards as enumerated in ArticleIII, Sec.3 of the _Constitution_:
@@ -458,7 +458,7 @@ certified Fire Marshal.
 11. The Chapter must implement a Standards for Chapter Excellence Program,
 including the appointment or election of a Standards Chairman.
 
-### Sec.3. Individual Obligations.
+### Sec. 3. Individual Obligations
 
 Each member shall have the following responsibilities and obligations.
 
@@ -493,9 +493,9 @@ whether the academic progress is considered sufficient enough to remove the
 member from social probation. The Executive Committee and The High Sigma have
 the right to place anyone back on social probation.
 
-### Sec.4. Voting On Candidates for Membership.
+### Sec. 4. Voting On Candidates for Membership
 
-#### A. Association.
+#### A. Association
 
 A 2/3 favorable vote of those active and associate members present and voting
 shall be required for a prospective member to be associated into the Chapter.
@@ -512,20 +512,20 @@ groups of four or more. With the unanimous vote of the group and the approval of
 the High Delta, a bid will be given. This process is not applicable if the
 potential new member voted on in a formal bid meeting.
 
-#### B. Initiation.
+#### B. Initiation
 
 A 75% favorable vote of those active members present and voting shall be
 required for an associate member to be initiated into the Chapter. Voting
 procedures are outlined in Code IV-3 of the _Statutory Code_. Scholastic
 requirements are outlined in CodeIV-4 of the _Statutory Code_.
 
-#### C. Termination of Associate Membership.
+#### C. Termination of Associate Membership
 
 Associate membership may be terminated at any time by the active members of the
 Chapter. A 75% favorable vote of the members present and voting shall be
 necessary to continue associate membership.
 
-#### D. Termination of Active Membership.
+#### D. Termination of Active Membership
 
 1. _Life Membership_. Membership in Lambda Chi Alpha is for life and shall be
 terminated only by death, resignation, or expulsion.
@@ -543,41 +543,41 @@ Alpha.
 to the limitations set forth by the Active Chapter and the Executive Committee,
 in accordance with Article VIII of the _Constitution_ and _Statutory Code_.
 
-### Sec.5. Initiation.
+### Sec. 5. Initiation
 
-#### A. Time.
+#### A. Time
 
 The exact time and place for the Initiation Ritual shall be designated by the
 High Phi.
 
-#### B. Manner of Initiation.
+#### B. Manner of Initiation
 
 This Chapter shall associate, initiate, and educate men only in strict
 accordance with the Laws of the Fraternity.
 
-#### C. Compulsory Attendance.
+#### C. Compulsory Attendance
 
 Every active member shall be required to attend the entire Initiation Ritual.
 
-#### D. Initiation Fee.
+#### D. Initiation Fee
 
 The Initiation Fee shall be paid 14 calendar days in advance of the initiation
 date.
 
-#### E. Zeta Numbers.
+#### E. Zeta Numbers
 
 Zeta numbers shall be assigned in alphabetical order within an initiation group,
 unless otherwise determined by the Active Chapter.
 
 ## Article VIII. Housing
 
-### Sec.1. House Rules
+### Sec. 1. House Rules
 
 Each year, the Executive Committee shall adopt a set of house rules, which
 include residency requirements, cleaning obligations, parking rights, and other
 material necessary to maintain the chapter house.
 
-### Sec.2. House Residency
+### Sec. 2. House Residency
 
 In accordance with Article IV, Sec.6(d) of the _Constitution_ of Lambda Chi
 Alpha Fraternity, every member in good standing is required to live in the
@@ -594,18 +594,18 @@ reside within the chapter house (only valid after the Executive Committee has
 spoken with the member’s parents); and other excuses concurrent with the
 previous examples.
 
-### Sec.3. Parlor Fees
+### Sec. 3. Parlor Fees
 
 Parlor fees will be decided along with the chapter budget, at the discretion of
 the Executive Committee.
 
-### Sec.4. House Duties
+### Sec. 4. House Duties
 
 The House Manager upon his appointment to office will draft a document, which is
 written and posted, stating the policies, duties and penalties pertaining to
 house cleaning to be approved by majority vote at the second chapter meeting
 
-### Sec.5. Parking
+### Sec. 5. Parking
 
 Procedures for allocating parking spots at the chapter house shall be covered in
 the Chapter House Rules. Use of the chapter house parking lot is for residents
@@ -613,7 +613,7 @@ of the chapter house only, although alumni of Lambda Chi Alpha are exempt from
 fines and other penalties accrued through parking at the chapter house. The High
 Rho is responsible for informing alumni when other parking areas may be used.
 
-### Sec.6. Summer Housing
+### Sec. 6. Summer Housing
 
 The Chapter shall designate a Summer President and Summer House Manager who
 shall be in charge of the chapter house if the High Alpha and House Manager are
@@ -627,7 +627,7 @@ policies, with the High Pi or an alumni officer present, if possible.
 
 ## Article IX. Finances
 
-### Sec.1. Budget.
+### Sec. 1. Budget
 
 Sigma Zeta shall operate under an established budget for Fall and Winter
 semesters, using the official University Academic Calendars to determine the
@@ -636,7 +636,7 @@ budget for consideration of the Executive Committee. The final budget shall be
 prepared by the Executive Committee and approved by the Active Chapter and House
 Corporation.
 
-### Sec.2. Fees and Dues.
+### Sec. 2. Fees and Dues
 
 1. _Chapter Dues_. Chapter dues shall be set each semester. Special discount or
 payment incentives may be provided as determined by the Executive Committee.
@@ -647,7 +647,7 @@ paid within one week of association.
 3. _Initiation Fee_. The General Fraternity Initiation Fee shall be paid by the
 associate member before the Initiation Ritual.
 
-### Sec.3. Financial Hardship.
+### Sec. 3. Financial Hardship
 
 A member may be granted inactive membership status, in case of undue financial
 hardship upon written petition approved by the Executive Committee, as provided
@@ -655,7 +655,7 @@ in Article IV, Sec.2(a) of the _Constitution_.
 
 ## Article X. Discipline
 
-### Sec.1. Procedures.
+### Sec. 1. Procedures
 
 A member has the right to bring before the Executive Committee a complaint
 against another member or a situation which warrants disciplinary action. The
@@ -664,13 +664,13 @@ the _Constitution_ and _Statutory Code_.
 
 ## Article XI. Attendance Policy
 
-### Sec.1. Required Events.
+### Sec. 1. Required Events
 
 All events and activities of Sigma Zeta are considered mandatory with the
 exception of social events and those so deemed by the High Alpha. Unexcused
 absences shall be dealt with by the Executive Committee.
 
-### Sec2. Initiation Attendance
+### Sec. 2. Initiation Attendance
 
 Any active Brother in good standing of Sigma Zeta of Lambda Chi Alpha who is not
 present for the entire Initiation Ritual will be assessed a fine of $500.00.
@@ -679,11 +679,11 @@ the Ritual will be considered an excuse, except for family emergencies.
 
 ## Article XII. Amendments
 
-### Sec.1. Basis.
+### Sec. 1. Basis
 
 The process of revision of these Bylaws shall follow _Robert’s Rules of Order_.
 
-### Sec.2. Revisions
+### Sec. 2. Revisions
 
 1. Revisions to these Bylaws can be introduced at any regularly scheduled
 Chapter business meeting.
@@ -694,13 +694,13 @@ Chapter business meeting.
 
 4. Revisions shall require a two-thirds majority to pass.
 
-### Sec.3. Biennial Review.
+### Sec. 3. Biennial Review
 
 Review of these Bylaws shall occur in the Fall following each Lambda Chi Alpha
 General Assembly. The Parliamentarian will be charged with the responsibility of
 overseeing the review.
 
-### Sec.4. Equal Opportunity
+### Sec. 4. Equal Opportunity
 
 Lambda Chi Alpha is committed to a policy of equal opportunity for all persons
 and does not discriminate on the basis of race, color, national origin, age,
@@ -711,12 +711,12 @@ organizations. Upon joining the organization, all members agree not to undermine
 the purpose or mission of Lambda Chi Alpha. Lambda Chi Alpha meets the
 requirements for a Title IX exemption.
 
-### Sec.5. Constitution and Bylaw Re-ratification
+### Sec. 5. Constitution and Bylaw Re-ratification
 
 Lambda Chi Alpha will re-ratify its constitution at minimum once per three
 calendar years.
 
-### Sec 6. Sexual Misconduct Rules and Prevention
+### Sec. 6. Sexual Misconduct Rules and Prevention
 
 As a brotherhood, we assert that we will not tolerate any acts of sexual abuse,
 sexual harassment, rape of any person, or allow for a culture promoting sexual
