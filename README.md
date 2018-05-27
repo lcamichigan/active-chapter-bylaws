@@ -142,7 +142,7 @@ the General Fraternity.
 ### Sec. 4. Executive Committee
 
 The Executive Committee shall have the powers and duties of the Active Chapters
-as defined in the _Constitution_ and _Statutory Code(III-31)_.
+as defined in the _Constitution_ and _Statutory Code_ (III-31).
 
 1. A pool of candidates shall be nominated and seconded for each member at large
 and alternate position popular vote following an election shall determine the
@@ -183,7 +183,7 @@ These committees shall be:
 
 1. Executive Committee
 
-2. Risk Management Task Force(IV-20)
+2. Risk Management Task Force (IV-20)
 
 3. Committees appointed at the prerogative of an officer of the High Zeta,
 provided that such committees follow all codes of the Constitution and Statutory
@@ -300,7 +300,7 @@ elections.
 
 To be eligible to hold an elective or appointive office, a member must be in
 good standing, academically and financially, as defined by the _Constitution_
-and _Statutory Code (IV-1,III-3)_ and these Bylaws.
+and _Statutory Code_ (IV-1, III-3) and these Bylaws.
 
 #### C. Election Order
 
@@ -417,12 +417,12 @@ Membership in the Active Chapter shall include active members (initiated) and
 associate members (non-initiated) who are students at the University of
 Michigan. To actively participate in chapter affairs, a member (active or
 associate) must be in good standing in accordance with Codes IV-1 (Good
-Standing), VIII-7 (Financial), and VIII-8(Scholastic) of the _Statutory Code_.
+Standing), VIII-7 (Financial), and VIII-8 (Scholastic) of the _Statutory Code_.
 
 ### Sec. 2. Chapter Obligations
 
 As required by the General Fraternity, the Chapter shall maintain the following
-Operating Standards as enumerated in ArticleIII, Sec.3 of the _Constitution_:
+Operating Standards as enumerated in Article III, Sec. 3 of the _Constitution_:
 
 1. The Chapter Membership, active and associate, must be equal in number to the
 campus fraternity average or 40, whichever is smaller, but in no event fewer
@@ -465,14 +465,14 @@ Each member shall have the following responsibilities and obligations.
 1. To abide by the laws, rulings, and accepted traditions of Sigma Zeta and
 Lambda Chi Alpha Fraternity.
 
-2. To pay promptly, all legally assessed dues, charges, and fines.(CodeVIII-7)
+2. To pay promptly, all legally assessed dues, charges, and fines. (Code VIII-7)
 
 3. To attend all regular meetings and all official functions of the Chapter
 whenever possible.
 
 4. To put forth a definite effort in all areas requiring member support.
 
-5. To be in good scholastic standing with the Fraternity. (CodeVIII-8)
+5. To be in good scholastic standing with the Fraternity. (Code VIII-8)
 
 6. Each Associate Member shall complete sober monitor training or the
 equivalent, which is endorsed by the Interfraternity Council for its members,
@@ -517,7 +517,7 @@ potential new member voted on in a formal bid meeting.
 A 75% favorable vote of those active members present and voting shall be
 required for an associate member to be initiated into the Chapter. Voting
 procedures are outlined in Code IV-3 of the _Statutory Code_. Scholastic
-requirements are outlined in CodeIV-4 of the _Statutory Code_.
+requirements are outlined in Code IV-4 of the _Statutory Code_.
 
 #### C. Termination of Associate Membership
 
@@ -532,7 +532,7 @@ terminated only by death, resignation, or expulsion.
 
 2. _Inactive Status_. Inactive status is permitted for an active brother who has
 paid dues and other charges for each of 8 full semesters, in accordance with
-ArticleIV, Section 2 of the _Constitution_.
+Article IV, Section 2 of the _Constitution_.
 
 3. _Resignation_. A member who resigns his membership is considered
 automatically expelled. In order to resign his membership from the active
@@ -579,7 +579,7 @@ material necessary to maintain the chapter house.
 
 ### Sec. 2. House Residency
 
-In accordance with Article IV, Sec.6(d) of the _Constitution_ of Lambda Chi
+In accordance with Article IV, Sec. 6(d) of the _Constitution_ of Lambda Chi
 Alpha Fraternity, every member in good standing is required to live in the
 chapter house unless excused by the Executive Committee. Any member not residing
 in the chapter house and who provides no proof of a valid excuse accepts any
@@ -651,7 +651,7 @@ associate member before the Initiation Ritual.
 
 A member may be granted inactive membership status, in case of undue financial
 hardship upon written petition approved by the Executive Committee, as provided
-in Article IV, Sec.2(a) of the _Constitution_.
+in Article IV, Sec. 2(a) of the _Constitution_.
 
 ## Article X. Discipline
 
