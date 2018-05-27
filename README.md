@@ -142,7 +142,7 @@ the General Fraternity.
 ### Sec. 4. Executive Committee
 
 The Executive Committee shall have the powers and duties of the Active Chapters
-as defined in the _Constitution_ and _Statutory Code(III-31)_
+as defined in the _Constitution_ and _Statutory Code(III-31)_.
 
 1. A pool of candidates shall be nominated and seconded for each member at large
 and alternate position popular vote following an election shall determine the
@@ -532,7 +532,7 @@ terminated only by death, resignation, or expulsion.
 
 2. _Inactive Status_. Inactive status is permitted for an active brother who has
 paid dues and other charges for each of 8 full semesters, in accordance with
-ArticleIV, Section 2 of the _Constitution_
+ArticleIV, Section 2 of the _Constitution_.
 
 3. _Resignation_. A member who resigns his membership is considered
 automatically expelled. In order to resign his membership from the active
@@ -603,7 +603,7 @@ the Executive Committee.
 
 The House Manager upon his appointment to office will draft a document, which is
 written and posted, stating the policies, duties and penalties pertaining to
-house cleaning to be approved by majority vote at the second chapter meeting
+house cleaning to be approved by majority vote at the second chapter meeting.
 
 ### Sec. 5. Parking
 
