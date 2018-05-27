@@ -39,7 +39,7 @@ by Sigma’s High Zeta, the physical copy takes precedence.]_
     * [I. Vacancies](#i-vacancies)
   * [3. High Pi](#sec-3-high-pi)
   * [4. Executive Committee](#sec-4-executive-committee-1)
-  * [5. Educational Adviser](#sec-5-educational-adviser)
+  * [5. Educational Advisor](#sec-5-educational-advisor)
   * [6. Special Events](#sec-6-special-events)
 * [VII. Membership](#article-vii-membership)
   * [1. Status](#sec-1-status)
@@ -395,7 +395,7 @@ an ex-officio member, thus maintaining the number of members on exec to 8
 (5 voting and 3 ex-officio) plus one alternate. The High Beta shall exercise
 full voting privileges in the absence of the High Alpha.
 
-### Sec. 5. Educational Adviser
+### Sec. 5. Educational Advisor
 
 The Chapter shall elect an Educational Advisor who shall be a member of the
 University of Michigan faculty whenever possible. He or she need not be an
