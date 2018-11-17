@@ -12,7 +12,6 @@ install:
   - cd ..
   - PATH=$PATH:/usr/local/texlive/bin/x86_64-darwin
   - sudo tlmgr install
-    changepage
     fontspec
     geometry
     graphics

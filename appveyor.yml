@@ -11,7 +11,6 @@ install:
   - cd ..
   - set PATH=%PATH%;C:\texlive\bin\win32
   - tlmgr install
-    changepage
     fontspec
     geometry
     graphics

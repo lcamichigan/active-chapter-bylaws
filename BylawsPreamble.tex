@@ -4,13 +4,8 @@
 % you want to change the formatting of the bylaws, edit this file.
 
 \input ushyphex
-\usepackage[strict]{changepage}
 \usepackage[no-config]{fontspec}
-% Put subsection labels in a quarter-inch wide box (“bp” means “big point”, and
-% 1bp is 1/72 inch).
-\newlength\labelLength
-\labelLength=18bp
-\usepackage[left=\dimexpr1in+\labelLength\relax,right=1in,vmargin=1in]{geometry}
+\usepackage[hmargin=1.8in]{geometry}
 % See
 % https://tex.stackexchange.com/questions/24445/hyperref-lualatex-and-unicode-bookmarks-issue-garbled-page-numbers-in-ar-for-l
 % for why pdfencoding=auto is needed.
@@ -26,9 +21,9 @@
 
 % Don’t indent paragraphs.
 \parindent\z@
-% Separate paragraphs by 12 pt (“bp” means “big point”, and 1bp is 1/72 inch),
+% Separate paragraphs by 6 pt (“bp” means “big point”, and 1bp is 1/72 inch),
 % plus or minus 2 pt.
-\parskip=12bp plus 2bp minus 2bp
+\parskip=6bp plus 2bp minus 2bp
 
 % From Section 7.1 of “Standard Document Classes for LaTeX version 2e”
 % <https://ctan.org/pkg/article>, the \@maketitle macro produces a title when
@@ -47,8 +42,12 @@
 % Use uppercase Roman numerals to number sections.
 \renewcommand\thesection{\Roman{section}}
 
-% Omit the parent section number from subsection labels.
-\renewcommand\thesubsection{\arabic{subsection}}
+% Number subsections so that, for example, the second section of Article I is
+% Section 1.2.
+\renewcommand\thesubsection{\arabic{section}.\arabic{subsection}}
+% Put subsection labels in a 20 pt wide box.
+\newlength\labelLength
+\labelLength=20bp
 
 % Sections 3.1 and 3.2 of “The titlesec, titleps and titletoc Packages”
 % <https://ctan.org/pkg/titlesec> define the \titleformat and \titlespacing
@@ -61,15 +60,13 @@
     \parskip\z@
     % Center the label and title.
     \centering
-    % Make the label and title bold.
-    \bfseries
+    % Set the label and title in small caps.
+    \addfontfeature{Letters={SmallCaps,UppercaseSmallCaps}}
   }
-  % Set the label in small caps.
-  {{\addfontfeature{Letters=SmallCaps}Article} \thesection}
+  {Article \thesection}
   % Don’t add vertical space between the label and title.
   {\z@}
-  % Italicize the title.
-  {\itshape}
+  {}
 \titlespacing*
   {\section}
   {\z@}      % Don’t change the left margin of the label and title.
@@ -78,21 +75,21 @@
 
 % Italicize subsection titles.
 \newcommand*\titleStyle{\itshape}
-% Append a period and a line break to subsection titles.
-\newcommand*\titleSuffix{.\\}
+% Append a period to subsection titles.
+\newcommand*\titleSuffix{.}
 \titleformat
   {\subsection}
   [runin]
   {\titleStyle}
-  {\makebox[2\labelLength][l]{Sec.~{\addfontfeature{Numbers=Monospaced}\thesubsection}.}}
+  {\makebox[\labelLength][l]{{\addfontfeature{Numbers=Monospaced}\thesubsection}}}
   {\z@}
   {}
   [\titleSuffix]
 \titlespacing*
   {\subsection}
-  {-\labelLength} % Hang the label in the left margin.
-  {\z@}           % Don’t add space above the label and title.
-  {\z@}           % Don’t add space after the title.
+  {\z@}      % Don’t change the left margin of the label and title.
+  {\z@}      % Don’t add space above the label and title.
+  {\wordsep} % Add a word space after the title.
 
 % Use a list for subsubsections.
 \newenvironment{subsubsectionList}{%
