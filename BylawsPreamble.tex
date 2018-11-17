@@ -5,11 +5,13 @@
 
 \input ushyphex
 \usepackage[no-config]{fontspec}
-\usepackage[hmargin=1.8in]{geometry}
+\usepackage[hmargin=1.8in,marginparwidth=1in]{geometry}
 % See
 % https://tex.stackexchange.com/questions/24445/hyperref-lualatex-and-unicode-bookmarks-issue-garbled-page-numbers-in-ar-for-l
 % for why pdfencoding=auto is needed.
 \usepackage[hidelinks,pdfencoding=auto]{hyperref}
+\usepackage{marginnote}
+\usepackage{ragged2e}
 \usepackage{titlesec}
 
 % Use Linux Libertine <http://libertine-fonts.org>, a free and open-source font.
@@ -125,9 +127,18 @@
 % Restore the catcode of @.
 \makeatother
 
+% Encapsulate references to the Constitution and Statutory Code as commands.
+\newcommand*\ConstitutionReference[2]{Article~#1, Section~#2 of the \emph{Constitution}}
+
 % Use small caps for acronyms.
 \newcommand*\acronym[1]{{\addfontfeature{Letters=UppercaseSmallCaps}#1}}
 
+% Use a small, sans-serif font for margin notes.
+\renewcommand*\marginfont{\sffamily\scriptsize}
+% Allow hyphenation in margin notes.
+\renewcommand*\raggedrightmarginnote{\RaggedRight}
+
 \AtBeginDocument{
-  \frenchspacing % Don’t put extra space after a full stop.
+  \frenchspacing  % Don’t put extra space after a full stop.
+  \urlstyle{same} % Don’t typeset URLs in a fixed-width font.
 }

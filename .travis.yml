@@ -20,6 +20,8 @@ install:
     latex-bin
     libertine
     luaotfload
+    marginnote
+    ms
     oberdiek
     titlesec
     url
@@ -32,4 +34,4 @@ install:
 
 script:
   - test "$(hunspell -d en_US,Bylaws -l -t Bylaws.tex)" == ''
-  - for i in {1..2}; do lualatex -interaction=batchmode Bylaws.tex; done
+  - for i in {1..3}; do lualatex -interaction=batchmode Bylaws.tex; done
