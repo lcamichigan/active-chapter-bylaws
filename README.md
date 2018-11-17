@@ -1,7 +1,7 @@
 # Bylaws of Sigma Zeta
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ds252p7v6mdc2d8m?svg=true)](https://ci.appveyor.com/project/lcamichigan/chapter-bylaws)
-[![Build Status](https://travis-ci.org/lcamichigan/chapter-bylaws.svg?branch=master)](https://travis-ci.org/lcamichigan/chapter-bylaws)
+[![Build Status](https://travis-ci.org/lcamichigan/chapter-bylaws.svg?branch=tex)](https://travis-ci.org/lcamichigan/chapter-bylaws)
 
 This is a collection of resources for maintaining the collegiate bylaws of
 [Sigma Zeta of ΛΧΑ](https://lcamichigan.com).
