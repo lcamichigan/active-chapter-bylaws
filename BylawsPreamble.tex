@@ -1,0 +1,136 @@
+% This is the preamble
+% <https://en.wikibooks.org/wiki/LaTeX/Document_Structure#Global_structure> of
+% Bylaws.tex. If you want to change the text of the bylaws, edit Bylaws.tex. If
+% you want to change the formatting of the bylaws, edit this file.
+
+\input ushyphex
+\usepackage[strict]{changepage}
+\usepackage[no-config]{fontspec}
+% Put subsection labels in a quarter-inch wide box (“bp” means “big point”, and
+% 1bp is 1/72 inch).
+\newlength\labelLength
+\labelLength=18bp
+\usepackage[left=\dimexpr1in+\labelLength\relax,right=1in,vmargin=1in]{geometry}
+% See
+% https://tex.stackexchange.com/questions/24445/hyperref-lualatex-and-unicode-bookmarks-issue-garbled-page-numbers-in-ar-for-l
+% for why pdfencoding=auto is needed.
+\usepackage[hidelinks,pdfencoding=auto]{hyperref}
+\usepackage{titlesec}
+
+% Use Linux Libertine <http://libertine-fonts.org>, a free and open-source font.
+\setmainfont{Linux Libertine O}[Numbers=Proportional]
+
+% Change the category code (catcode) of @ to permit using and modifying internal
+% LaTeX commands.
+\makeatletter
+
+% Don’t indent paragraphs.
+\parindent\z@
+% Separate paragraphs by 12 pt (“bp” means “big point”, and 1bp is 1/72 inch),
+% plus or minus 2 pt.
+\parskip=12bp plus 2bp minus 2bp
+
+% From Section 7.1 of “Standard Document Classes for LaTeX version 2e”
+% <https://ctan.org/pkg/article>, the \@maketitle macro produces a title when
+% the title isn’t on a separate page. Redefine \@maketitle to reduce vertical
+% spacing and omit the author and date.
+\def\@maketitle{%
+  \newpage
+  \begin{center}%
+    {\LARGE \@title \par}%
+    \vskip 1em%
+    {\large \@date}%
+  \end{center}%
+  \par
+  \vskip 1.5em}
+
+% Use uppercase Roman numerals to number sections.
+\renewcommand\thesection{\Roman{section}}
+
+% Omit the parent section number from subsection labels.
+\renewcommand\thesubsection{\arabic{subsection}}
+
+% Sections 3.1 and 3.2 of “The titlesec, titleps and titletoc Packages”
+% <https://ctan.org/pkg/titlesec> define the \titleformat and \titlespacing
+% commands.
+\titleformat
+  {\section}
+  [display]
+  {%
+    % Eliminate the paragraph space between the label and title.
+    \parskip\z@
+    % Center the label and title.
+    \centering
+    % Make the label and title bold.
+    \bfseries
+  }
+  % Set the label in small caps.
+  {{\addfontfeature{Letters=SmallCaps}Article} \thesection}
+  % Don’t add vertical space between the label and title.
+  {\z@}
+  % Italicize the title.
+  {\itshape}
+\titlespacing*
+  {\section}
+  {\z@}      % Don’t change the left margin of the label and title.
+  {\parskip} % Add a paragraph space before the label.
+  {\z@}      % Don’t change the right margin of the label and title.
+
+% Italicize subsection titles.
+\newcommand*\titleStyle{\itshape}
+% Append a period and a line break to subsection titles.
+\newcommand*\titleSuffix{.\\}
+\titleformat
+  {\subsection}
+  [runin]
+  {\titleStyle}
+  {\makebox[2\labelLength][l]{Sec.~{\addfontfeature{Numbers=Monospaced}\thesubsection}.}}
+  {\z@}
+  {}
+  [\titleSuffix]
+\titlespacing*
+  {\subsection}
+  {-\labelLength} % Hang the label in the left margin.
+  {\z@}           % Don’t add space above the label and title.
+  {\z@}           % Don’t add space after the title.
+
+% Use a list for subsubsections.
+\newenvironment{subsubsectionList}{%
+  \begin{list}{\Alph{enumi}.}{%
+    \topsep\z@%
+    \partopsep\z@%
+    \parsep\parskip%
+    \itemsep\z@%
+    \labelsep\z@%
+    \labelwidth\labelLength%
+    \leftmargin\labelwidth%
+    \usecounter{enumi}%
+  }%
+}{\end{list}}
+
+% Define a compact ordered list.
+\newenvironment{orderedList}{%
+\begin{list}{\arabic{enumii}.}{%
+  \topsep\z@%
+  \partopsep\z@%
+  \parsep\parskip%
+  \itemsep\z@%
+  \labelsep\z@%
+  \labelwidth\labelLength%
+  \leftmargin\labelwidth%
+  \usecounter{enumii}%
+}%
+}{\end{list}}
+
+% Redefine \@mklab to put a list label on the left side of its box.
+\def\@mklab#1{#1\hfil}
+
+% Restore the catcode of @.
+\makeatother
+
+% Use small caps for acronyms.
+\newcommand*\acronym[1]{{\addfontfeature{Letters=UppercaseSmallCaps}#1}}
+
+\AtBeginDocument{
+  \frenchspacing % Don’t put extra space after a full stop.
+}

@@ -1,0 +1,35 @@
+# https://www.appveyor.com/docs/appveyor-yml
+
+install:
+  # Download and install a minimal TeX Live, based on
+  # https://github.com/latex3/latex3/blob/master/support/texlive.sh.
+  - ps: Start-FileDownload 'http://mirror.ctan.org/systems/texlive/tlnet/install-tl.zip'
+  - 7z x install-tl.zip
+  - cd install-tl-20*
+  - ps: Set-Content texlive.profile "selected_scheme scheme-minimal`nTEXDIR C:\texlive`noption_doc 0`noption_src 0`n"
+  - install-tl-windows -profile=texlive.profile
+  - cd ..
+  - set PATH=%PATH%;C:\texlive\bin\win32
+  - tlmgr install
+    changepage
+    fontspec
+    geometry
+    graphics
+    hyperref
+    hyphenex
+    latex-bin
+    libertine
+    luaotfload
+    oberdiek
+    titlesec
+    url
+
+build_script:
+  - ps: ForEach ($i in 1..2) { lualatex -interaction=batchmode Bylaws.tex }
+
+test: off
+
+artifacts:
+  - path: Bylaws.pdf
+
+skip_tags: true
