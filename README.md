@@ -44,5 +44,5 @@ for /l %G in (1, 1, 2) do lualatex Bylaws.tex
 or in Terminal:
 
 ```sh
-for i in {1..2}; do lualatex Bylaws.dtx; done
+for i in {1..2}; do lualatex Bylaws.tex; done
 ```
