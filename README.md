@@ -32,17 +32,17 @@ double-click MacTeX.pkg.
 To create a PDF file of the Bylaws, enter in PowerShell:
 
 ```powershell
-ForEach ($i in 1..2) { lualatex Bylaws.tex }
+ForEach ($i in 1..3) { lualatex Bylaws.tex }
 ```
 
 or in Command Prompt:
 
 ```batch
-for /l %G in (1, 1, 2) do lualatex Bylaws.tex
+for /l %G in (1, 1, 3) do lualatex Bylaws.tex
 ```
 
 or in Terminal:
 
 ```sh
-for i in {1..2}; do lualatex Bylaws.dtx; done
+for i in {1..3}; do lualatex Bylaws.dtx; done
 ```
