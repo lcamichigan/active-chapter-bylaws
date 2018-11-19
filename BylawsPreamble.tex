@@ -15,7 +15,7 @@
 \usepackage{titlesec}
 
 % Use Linux Libertine <http://libertine-fonts.org>, a free and open-source font.
-\setmainfont{Linux Libertine O}[Numbers=Proportional]
+\setmainfont{Linux Libertine O}[Numbers={OldStyle,Proportional}]
 
 % Change the category code (catcode) of @ to permit using and modifying internal
 % LaTeX commands.
@@ -41,15 +41,63 @@
   \par
   \vskip 1.5em}
 
+% Redefine the \tableofcontents command to use lining figures for subsection
+% labels.
+\let\oldTableOfContents\tableofcontents
+\renewcommand\tableofcontents{%
+  {%
+    \addfontfeature{Numbers={Lining,Monospaced}}%
+    \oldTableOfContents%
+  }%
+}
+
 % Use uppercase Roman numerals to number sections.
 \renewcommand\thesection{\Roman{section}}
 
 % Number subsections so that, for example, the second section of Article I is
 % Section 1.2.
 \renewcommand\thesubsection{\arabic{section}.\arabic{subsection}}
+\newcommand*\subsectionLabel{\addfontfeature{Numbers={Lining,Monospaced}}\thesubsection}
 % Put subsection labels in a 20 pt wide box.
 \newlength\labelLength
 \labelLength=20bp
+
+% From Section 8.1 of “Standard Document Classes for LaTeX version 2e”
+% <https://ctan.org/pkg/article>, a table of contents consists of uses of
+% \contentsline commands. Since \contentsline{⟨name⟩} expands to \l@⟨name⟩ (for
+% example, \contentsline{section} expands to \l@section), redefining \l@⟨name⟩
+% commands will modify the format of a table of contents. Most \l@⟨name⟩
+% commands can be defined using \@dottedtocline{⟨level⟩}{⟨indent⟩}{⟨numwidth⟩}:
+%
+%   ⟨level⟩ is the numbering level; \section is level 1, \subsection is level 2,
+%   and so on.
+%
+%   ⟨indent⟩ is the width of the space between the left margin and left edge of
+%   the line.
+%
+%   ⟨numwidth⟩ is the width of the label (for example III, 1.2) in the table-of-
+%   contents line.
+%
+% For table-of-contents lines corresponding to \section commands, use no
+% indentation, and use a label width equal to the width of “VIII” plus the space
+% that will follow a subsection label.
+\newlength\subsectionLabelLength
+\settowidth\subsectionLabelLength{\subsectionLabel}
+\newlength\sectionLabelLength
+\setcounter{section}{8}
+\settowidth\sectionLabelLength{\thesection}
+\setcounter{section}{0}
+\addtolength\sectionLabelLength{\dimexpr\labelLength-\subsectionLabelLength}
+\renewcommand*\l@section{\@dottedtocline{1}{\z@}{\sectionLabelLength}}
+
+% For table-of-contents lines corresponding to \subsection commands…
+\renewcommand*\l@subsection{%
+  % …eliminate vertical space above this “paragraph”…
+  \vspace{-\parskip}%
+  % …and use an indentation equal to the width of labels of level-1 table-of-
+  % contents lines.
+  \@dottedtocline{2}{\sectionLabelLength}{\labelLength}%
+}
 
 % Sections 3.1 and 3.2 of “The titlesec, titleps and titletoc Packages”
 % <https://ctan.org/pkg/titlesec> define the \titleformat and \titlespacing
@@ -83,7 +131,7 @@
   {\subsection}
   [runin]
   {\titleStyle}
-  {\makebox[\labelLength][l]{{\addfontfeature{Numbers=Monospaced}\thesubsection}}}
+  {\makebox[\labelLength][l]{\subsectionLabel}}
   {\z@}
   {}
   [\titleSuffix]
