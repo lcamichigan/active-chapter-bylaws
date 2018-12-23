@@ -26,7 +26,7 @@ install:
     url
 
 build_script:
-  - ps: ForEach ($i in 1..3) { lualatex -interaction=batchmode Bylaws.tex }
+  - ps: foreach ($i in 1..3) { lualatex -interaction=batchmode Bylaws.tex }
 
 test: off
 
