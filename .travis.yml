@@ -31,5 +31,5 @@ install:
   - echo -e "6\nIFC\nInterfraternity\nNIC\nRitualist\nSAPAC\nteardown" > Bylaws.dic
 
 script:
-  - test "$(hunspell -d en_US,Bylaws -l -t Bylaws.tex)" == ''
+  - test "$(hunspell -d en_US,Bylaws -l -t Bylaws.tex)" = ''
   - for i in {1..2}; do lualatex -interaction=batchmode Bylaws.tex; done
