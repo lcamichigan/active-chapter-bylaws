@@ -10,7 +10,7 @@ This is a collection of resources for maintaining the collegiate bylaws of
 
 To make leases, you need [LuaTeX](http://www.luatex.org), which is free and
 cross-platform. You also need the font
-[Lib­ert­i­nus](https://github.com/libertinus-fonts/libertinus). This is also free,
+[Libertinus](https://github.com/libertinus-fonts/libertinus). This is also free,
 and you’ll get it automatically when you install LuaTeX.
 
 ### On Windows
