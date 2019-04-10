@@ -17,7 +17,7 @@ install:
     hyperref
     hyphenex
     latex-bin
-    libertine
+    lib­ert­i­nus-fonts
     luaotfload
     oberdiek
     titlesec
